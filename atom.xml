@@ -5,7 +5,7 @@
   <subtitle><![CDATA[Browser extension that displays your Facebook notifications unread count.]]></subtitle>
   <link href="https://dev.ligny.org/F-Notifier/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://dev.ligny.org/F-Notifier/" rel="alternate" type="text/html" />
-  <updated>2022-03-16T03:11:43+01:00</updated>
+  <updated>2022-03-16T03:21:43+01:00</updated>
   <author>
     <name>F-Notifier</name>
     <uri>https://dev.ligny.org/F-Notifier/</uri>
